@@ -1,4 +1,4 @@
-Date From,Date To,State,Fuel,Emission Factor
+date_from,date_to,state,fuel,emission_factor
 1/07/2019,30/06/2020,NSW,Electricity,0.81
 1/07/2019,30/06/2020,ACT,Electricity,0.81
 1/07/2019,30/06/2020,VIC,Electricity,1.02
