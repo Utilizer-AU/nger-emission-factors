@@ -59,14 +59,24 @@ date_from,date_to,state,fuel,content_factor,content_factor_units,emission_factor
 1/07/2024,30/06/2025,NT_DKIS,Electricity,0.0036,GJ/kWh,0.5600,0.8100,,,,Electricity
 1/07/2024,30/06/2025,TAS,Electricity,0.0036,GJ/kWh,0.1500,0.8100,,,,Electricity
 1/07/2024,30/06/2025,NT,Electricity,0.0036,GJ/kWh,0.5400,0.8100,,,,Electricity
-1/07/2019,30/06/2025,*,Diesel,38.6000,GJ/kL,70.2000,,69.9000,0.1000,0.2,Stationary
-1/07/2019,30/06/2025,*,LPG,25.7000,GJ/kL,60.6000,,60.2000,0.2000,0.2,Stationary
-1/07/2019,30/06/2025,*,Natural Gas,0.0393,GJ/m3,51.5300,,51.4000,0.100,0.030,Stationary
-1/07/2019,30/06/2025,*,Diesel_Standard,38.6000,GJ/kL,70.4000,,69.9000,0.1,0.4,Transport
-1/07/2019,30/06/2025,*,Diesel_Premium,38.6000,GJ/kL,70.4000,,69.9000,0.1,0.4,Transport
+1/07/2025,30/06/2026,NSW,Electricity,0.0036,GJ/kWh,0.6400,0.8100,,,,Electricity
+1/07/2025,30/06/2026,ACT,Electricity,0.0036,GJ/kWh,0.6400,0.8100,,,,Electricity
+1/07/2025,30/06/2026,VIC,Electricity,0.0036,GJ/kWh,0.7800,0.8100,,,,Electricity
+1/07/2025,30/06/2026,QLD,Electricity,0.0036,GJ/kWh,0.6700,0.8100,,,,Electricity
+1/07/2025,30/06/2026,SA,Electricity,0.0036,GJ/kWh,0.2200,0.8100,,,,Electricity
+1/07/2025,30/06/2026,WA_SWIS,Electricity,0.0036,GJ/kWh,0.5000,0.8100,,,,Electricity
+1/07/2025,30/06/2026,WA_NWIS,Electricity,0.0036,GJ/kWh,0.5600,0.8100,,,,Electricity
+1/07/2025,30/06/2026,NT_DKIS,Electricity,0.0036,GJ/kWh,0.5600,0.8100,,,,Electricity
+1/07/2025,30/06/2026,TAS,Electricity,0.0036,GJ/kWh,0.2000,0.8100,,,,Electricity
+1/07/2025,30/06/2026,NT,Electricity,0.0036,GJ/kWh,0.5600,0.8100,,,,Electricity
+1/07/2019,30/06/2025,*,Diesel,38.6,GJ/kL,70.2000,,69.9000,0.1000,0.2000,Stationary
+1/07/2019,30/06/2025,*,LPG,25.7,GJ/kL,60.6000,,60.2000,0.2000,0.2000,Stationary
+1/07/2019,30/06/2025,*,Natural Gas,0.0393,GJ/m3,51.5300,,51.4000,0.1000,0.0300,Stationary
+1/07/2019,30/06/2025,*,Diesel_Standard,38.6,GJ/kL,70.4000,,69.9000,0.1000,0.4000,Transport
+1/07/2019,30/06/2025,*,Diesel_Premium,38.6,GJ/kL,70.4000,,69.9000,0.1000,0.4000,Transport
 1/07/2019,30/06/2025,*,Ethanol,,GJ/kL,0.4000,,0.4000,,,Transport
-1/07/2019,30/06/2025,*,LPG,26.2000,GJ/kL,61.5000,,60.2000,0.7,0.6,Transport
-1/07/2019,30/06/2025,*,Petrol_E10,39.7000,GJ/kL,74.1800,,73.6000,0.08,0.5,Transport
-1/07/2019,30/06/2025,*,Petrol_95,39.7000,GJ/kL,74.1800,,73.6000,0.08,0.5,Transport
-1/07/2019,30/06/2025,*,Petrol_91,39.7000,GJ/kL,74.1800,,73.6000,0.08,0.5,Transport
-1/07/2019,30/06/2025,*,Petrol_98,39.7000,GJ/kL,74.1800,,73.6000,0.08,0.5,Transport
+1/07/2019,30/06/2025,*,LPG,26.2,GJ/kL,61.5000,,60.2000,0.7000,0.6000,Transport
+1/07/2019,30/06/2025,*,Petrol_E10,39.7,GJ/kL,74.1800,,73.6000,0.0800,0.5000,Transport
+1/07/2019,30/06/2025,*,Petrol_95,39.7,GJ/kL,74.1800,,73.6000,0.0800,0.5000,Transport
+1/07/2019,30/06/2025,*,Petrol_91,39.7,GJ/kL,74.1800,,73.6000,0.0800,0.5000,Transport
+1/07/2019,30/06/2025,*,Petrol_98,39.7,GJ/kL,74.1800,,73.6000,0.0800,0.5000,Transport
